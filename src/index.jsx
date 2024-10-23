@@ -72,7 +72,7 @@ function Index() {
         localStorage.setItem("isLoggedIn", isLoggedIn);
         return user;
       } else {
-        console.warn("User is not logged into GitHub");
+        console.warn("User is not logged into GitHub?");
       }
     });
   }, []);
