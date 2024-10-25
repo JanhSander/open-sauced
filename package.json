@@ -113,6 +113,6 @@
     "buildDirectory": "build"
   },
   "volta": {
-    "node": "16.14.2"
+    "node": "20.11.0"
   }
 }
