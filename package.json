@@ -77,7 +77,7 @@
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.7",
     "camelcase": "^6.3.0",
     "enzyme": "^3.11.0",
-    "esbuild": "^0.14.39",
+    "esbuild": "^0.25.0",
     "esbuild-jest": "^0.5.0",
     "eslint": "^8.15.0",
     "eslint-config-react-app": "^7.0.1",
